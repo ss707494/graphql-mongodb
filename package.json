@@ -40,7 +40,7 @@
     "graphql": "^14.0.2",
     "graphql-import": "^0.7.1",
     "graphql-tools": "^4.0.4",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "merge-graphql-schemas": "^1.5.8",
     "mongodb": "^3.1.13",
